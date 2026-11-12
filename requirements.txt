@@ -1,0 +1,6 @@
+numpy
+pandas
+pyarrow
+openpyxl
+yfinance
+psycopg2-binary
